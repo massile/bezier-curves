@@ -6,7 +6,7 @@ Bezier-curves
 Context
 -------
 
-A 2D design tool built with Java for an assignement in the Ecole des Mines school. (done in pair)
+A 2D design tool built with Java for an assignement in the Ecole des Mines school. (done in pair with ![Armand Mellet](https://www.linkedin.com/in/armand-mellet-a28255bb))
 
 Features
 --------
